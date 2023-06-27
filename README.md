@@ -22,3 +22,14 @@ Hello my name is Prabhat Singh and here is the list of the tasks assigned to me 
 #Output : 
 
 ![WhatsApp Image 2023-06-13 at 16 46 49](https://github.com/PrabhatSingh0607/OCTANET_JUNE/assets/118503589/d0cc1dfa-929c-421d-b17c-533316fcdc1e)
+
+#Task3 :
+
+![image](https://github.com/PrabhatSingh0607/OCTANET_JUNE/assets/118503589/62d1a89b-190c-469b-a526-860c2c51547b)
+
+#output :
+
+![WhatsApp Image 2023-06-27 at 09 54 13](https://github.com/PrabhatSingh0607/OCTANET_JUNE/assets/118503589/76eb93b0-da27-408b-8018-29387f79c4e4)
+
+![WhatsApp Image 2023-06-27 at 09 58 42](https://github.com/PrabhatSingh0607/OCTANET_JUNE/assets/118503589/adb9da5e-7983-44ac-bb20-b1e7dde8606d)
+
